@@ -1,0 +1,8 @@
+- Session:
+	Lưu thông tin của client trên database
+	Session làm việc theo phiên, ví dụ như phiên đăng nhập
+	Tồn tại và luân chuyển trong mọi page của web/app
+	Dữ liệu được lưu và một file trên server khi phiên session kết thúc
+- Cookie:
+	Lưu thông tin client trên trình duyệt
+	

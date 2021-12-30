@@ -1,0 +1,5 @@
+IMAGE PROCESSING
+- Resize
+- Auto-orient
+- Grayscale
+- Adject contract
